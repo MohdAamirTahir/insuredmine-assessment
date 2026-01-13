@@ -1,5 +1,7 @@
 const User = require("../models/User");
 const Policy = require("../models/Policy");
+const LOB = require("../models/LOB");          
+const Carrier = require("../models/Carrier");
 
 /**
  * @desc    Search policy info by username
